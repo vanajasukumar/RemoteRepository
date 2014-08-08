@@ -10,7 +10,7 @@ public class First {
 		// TODO Auto-generated method stub
 		
 	  
-		      String[] coins = { "A", "B", "C", "D", "E" };
+		      String[] coins = { "A", "B", "C", "D", "E", "F" };
 		      List l = new ArrayList();
 		      for (int i = 0; i < coins.length; i++)
 		         l.add(coins[i]);
